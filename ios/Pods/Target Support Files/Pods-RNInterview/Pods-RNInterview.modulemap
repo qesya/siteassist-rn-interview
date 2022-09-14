@@ -1,0 +1,6 @@
+module Pods_RNInterview {
+  umbrella header "Pods-RNInterview-umbrella.h"
+
+  export *
+  module * { export * }
+}
